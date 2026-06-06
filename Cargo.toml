@@ -1,0 +1,7 @@
+[package]
+name = "agent-ensemble"
+version = "0.1.0"
+edition = "2021"
+description = "Musical ensemble as multi-agent experiment — proving the isomorphism with real data"
+license = "MIT"
+repository = "https://github.com/SuperInstance/agent-ensemble"
